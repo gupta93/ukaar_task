@@ -1,0 +1,17 @@
+dj-database-url==0.4.2
+dj-static==0.0.6
+Django==1.6
+django-toolbelt==0.0.1
+gunicorn==19.7.1
+pkg-resources==0.0.0
+protobuf==3.4.0
+psycopg2==2.7.3.2
+pycrypto==2.6.1
+python-axolotl==0.1.39
+python-axolotl-curve25519==0.1
+python-dateutil==2.6.1
+pytz==2017.2
+six==1.11.0
+South==1.0.2
+static3==0.7.0
+yowsup2==2.5.2
